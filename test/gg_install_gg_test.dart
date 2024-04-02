@@ -24,7 +24,7 @@ void main() {
   // ...........................................................................
   void initGgVersion() {
     ggVersionProcess = GgFakeProcess();
-    when(() => processWrapper.start('gg', ['--version'])).thenAnswer(
+    when(() => processWrapper.start('gg', ['--help'])).thenAnswer(
       (_) async => ggVersionProcess,
     );
   }

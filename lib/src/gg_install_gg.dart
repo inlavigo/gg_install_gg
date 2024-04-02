@@ -101,7 +101,7 @@ class GgInstallGg extends Command<dynamic> {
     try {
       final p = await _processWrapper.start(
         'gg',
-        ['--version'],
+        ['--help'],
       );
       // Wait for the process to finish
       final exitCode = await p.exitCode;
