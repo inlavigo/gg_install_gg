@@ -1,5 +1,11 @@
 # Changelog
 
+## [Unreleased]
+
+### Removed
+
+- 'Pipline: Disable cache'
+
 ## [1.0.3] - 2024-04-09
 
 ### Changed
@@ -10,4 +16,5 @@
 - Fix an error causing gg not to be recognized
 - Prepare publish
 
+[Unreleased]: https://github.com/inlavigo/gg_install_gg/compare/1.0.3...HEAD
 [1.0.3]: https://github.com/inlavigo/gg_install_gg/tag/%tag
