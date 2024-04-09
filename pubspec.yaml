@@ -1,6 +1,6 @@
 name: gg_install_gg
 description: gg_install_gg installs the gg developer command line locally.
-version: 1.0.4
+version: 1.0.5
 repository: https://github.com/inlavigo/gg_install_gg.git
 
 environment:
