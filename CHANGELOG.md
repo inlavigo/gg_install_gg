@@ -1,5 +1,11 @@
 # Changelog
 
+## [Unreleased]
+
+### Removed
+
+- dependency to gg\_install\_gg, remove ./check script
+
 ## [1.0.6] - 2024-04-12
 
 ### Removed
@@ -28,6 +34,7 @@
 - Fix an error causing gg not to be recognized
 - Prepare publish
 
+[Unreleased]: https://github.com/inlavigo/gg_install_gg/compare/1.0.6...HEAD
 [1.0.6]: https://github.com/inlavigo/gg_install_gg/compare/1.0.5...1.0.6
 [1.0.5]: https://github.com/inlavigo/gg_install_gg/compare/1.0.4...1.0.5
 [1.0.4]: https://github.com/inlavigo/gg_install_gg/compare/1.0.3...1.0.4
